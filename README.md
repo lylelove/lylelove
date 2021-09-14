@@ -1,5 +1,8 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=lylelove)   
+:wave: [![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/lylelove)
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/_lyle__?style=social)
 <!--

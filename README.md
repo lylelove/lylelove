@@ -1,5 +1,5 @@
 ### Hi there 👋
-![<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lylelove"](https://github-readme-stats.vercel.app/api?username=lylelove)
+![<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=lylelove"](https://github-readme-stats.vercel.app/api?username=lylelove)
 ![Twitter Follow](https://img.shields.io/twitter/follow/_lyle__?style=social)
 <!--
 **lylelove/lylelove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

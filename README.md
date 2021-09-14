@@ -3,7 +3,8 @@
  
 I'm Lylelove, a student from SDUFE.
        
-![Twitter Follow](https://img.shields.io/twitter/follow/_lyle__?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/_lyle__?style=social)  
+
 [My Blog](http://lyle.ezyro.com/)
 <!--
 **lylelove/lylelove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

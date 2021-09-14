@@ -1,5 +1,7 @@
-### Hi there 👋
-![<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lylelove"](https://github-readme-stats.vercel.app/api?username=lylelove)
+### Hi lylelove here! 👋
+![<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lylelove">](https://github-readme-stats.vercel.app/api?username=lylelove)
+ 
+I'm Lylelove, a student from SDUFE.
        
 ![Twitter Follow](https://img.shields.io/twitter/follow/_lyle__?style=social)
 <!--

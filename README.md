@@ -1,4 +1,4 @@
-<img src="https://s2.loli.net/2021/12/27/mIPisB4HzvdwKuT.png"/>
+<img src="https://steamcard.vercel.app/card?steamid=76561198998904509"/>
 
 ## 你想把你的温柔和迷恋一同给他／
 

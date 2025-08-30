@@ -1,9 +1,18 @@
+Hi there 👋
 
-## 你想把你的温柔和迷恋一同给他／
+I’m Jing He (@lylelove), 24 years old, from Yantai, China.
 
-## 让微凉的风当邮差／
+📚 I love reading, writing, and coding.
 
-## 送给他一封长信／
+🔎 My research focuses on intelligent logistics and algorithm design.
+
+🎓 Currently pursuing my Master’s degree at the School of Management Science and Engineering, Shandong University of Finance and Economic(SDUFE).
+
+🌍 Curious about the world — and glad that you found your way here.
+
+✨ Fortunate to meet you under the stars of the sea of bits.
+
+📬 Reach me at: lylelove@163.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lylelove&theme=solarized_dark)
 
